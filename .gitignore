@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+coverage/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+
+# OS / Editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+docs/adr
+docs/subagents
+docs/API_DESIGN.md
+docs/ARCHITECTURE.md
+docs/EXAMPLES_PLAN.md
+docs/HARNESS_THINKING_ACTIONS.md
+docs/OBSERVABILITY_ERRORS.md
+docs/OPEN_QUESTIONS.md
+docs/PROJECT_CHARTER.md
+docs/PROVIDERS_RUNTIME.md
+docs/QUALITY_TESTING.md
+docs/REASONING_SUMMARY.md
+docs/ROADMAP.md
