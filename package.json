@@ -1,6 +1,6 @@
 {
     "name": "nestelligence",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Provider-agnostic NestJS AI library with decorator-first DX.",
     "license": "MIT",
     "type": "commonjs",
