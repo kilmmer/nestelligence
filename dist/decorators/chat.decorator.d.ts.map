@@ -1,0 +1,1 @@
+{"version":3,"file":"chat.decorator.d.ts","sourceRoot":"","sources":["../../src/decorators/chat.decorator.ts"],"names":[],"mappings":"AAAA,OAAO,kBAAkB,CAAC;AAG1B,OAAO,EAAE,aAAa,EAA8B,MAAM,mBAAmB,CAAC;AAE9E,wBAAgB,IAAI,CAAC,MAAM,GAAG,OAAO,EAAE,OAAO,GAAG,MAAM,EACrD,OAAO,GAAE,aAAa,CAAC,MAAM,EAAE,OAAO,CAAM,GAC3C,eAAe,CAiCjB"}

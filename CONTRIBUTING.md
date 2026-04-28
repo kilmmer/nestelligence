@@ -27,7 +27,10 @@ Thank you for contributing.
 
 ## Commit And Versioning
 
-- Use semantic and descriptive commit messages.
+- Use Conventional Commits so release automation can infer SemVer:
+	- `feat:` triggers a minor release.
+	- `fix:`, `perf:`, `refactor:`, `docs:`, `chore:`, `test:`, `build:`, and `ci:` default to patch releases.
+	- Breaking changes use `!` in the header or `BREAKING CHANGE:` in the body and trigger a major release.
 - Breaking changes require migration notes.
 
 ## Architecture Changes
